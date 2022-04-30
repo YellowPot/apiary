@@ -1,0 +1,8 @@
+# Python Virtual Environment
+env/
+
+# Python
+__pycache__/
+
+# Visual Studio CODE
+.vscode/
